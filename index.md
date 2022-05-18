@@ -17,13 +17,11 @@
 
 ---
 
-### Category Name 2
+### GitHub Project Links
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [CodeClan "Dirty Data"" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
+- [Group Project: RShiny Dashboard for Public Health Scotland](https://github.com/colsco/phs_rshiny_dashboard_project_group4)
+
 
 ---
 
