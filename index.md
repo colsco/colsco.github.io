@@ -19,13 +19,16 @@
 -->
 ### GitHub Project Links
 
-- [CodeClan "Dirty Data"" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
+- [CodeClan "Dirty Data" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
 <img src="images/dirty_data.jpg?raw=true"/>
 <br>
 <br>
 - [Group Project: RShiny Dashboard for Public Health Scotland](https://github.com/colsco/phs_rshiny_dashboard_project_group4)
 <img src="images/shiny_dashboard.jpg?raw=true"/>
-
+<br>
+<br>
+- [Solo Homework Project: RShiny Dashboard for Console Games Sales Scotland](https://github.com/colsco/codeclan_homework_ColinS/tree/main/week_05/weekend_shiny_homework2)
+<img src="images/games_shiny.jpg?raw=true"/>
 
 ---
 
