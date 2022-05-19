@@ -27,7 +27,7 @@
 <img src="images/shiny_dashboard.jpg?raw=true"/>
 <br>
 <br>
-- [Solo Homework Project: RShiny Dashboard for Console Games Sales Scotland](https://github.com/colsco/codeclan_homework_ColinS/tree/main/week_05/weekend_shiny_homework2)
+- [Solo Homework Project: RShiny Dashboard for Console Games Sales](https://github.com/colsco/codeclan_homework_ColinS/tree/main/week_05/weekend_shiny_homework2)
 <img src="images/games_shiny.jpg?raw=true"/>
 
 ---
