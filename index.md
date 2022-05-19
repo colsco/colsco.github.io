@@ -1,4 +1,4 @@
-## Portfolio
+<!-- ## Portfolio
 
 ---
 
@@ -16,12 +16,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
+-->
 ### GitHub Project Links
 
 - [CodeClan "Dirty Data"" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
 - [Group Project: RShiny Dashboard for Public Health Scotland](https://github.com/colsco/phs_rshiny_dashboard_project_group4)
--->
+
 
 ---
 
