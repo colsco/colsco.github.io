@@ -24,6 +24,7 @@
 <br>
 <br>
 - [Group Project: RShiny Dashboard for Public Health Scotland](https://github.com/colsco/phs_rshiny_dashboard_project_group4)
+<img src="images/shiny_dashboard.jpg?raw=true"/>
 
 
 ---
