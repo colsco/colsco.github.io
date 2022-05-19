@@ -19,7 +19,10 @@
 -->
 ### GitHub Project Links
 
-- [CodeClan "Dirty Data"" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
+- [CodeClan "Dirty Data"" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)(/sample_page)
+<img src="images/dirty_data.jpg?raw=true"/>
+<br>
+<br>
 - [Group Project: RShiny Dashboard for Public Health Scotland](https://github.com/colsco/phs_rshiny_dashboard_project_group4)
 
 
