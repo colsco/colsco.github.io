@@ -19,7 +19,7 @@
 -->
 ### GitHub Project Links
 
-- [CodeClan "Dirty Data"" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)(/sample_page)
+- [CodeClan "Dirty Data"" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
 <img src="images/dirty_data.jpg?raw=true"/>
 <br>
 <br>
