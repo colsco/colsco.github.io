@@ -58,7 +58,7 @@ Ignite Direct open source data platform.
 <br>
 - [CodeClan "Dirty Data" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
 <p>
-Another CodeClan exercise, this time with the sole aim of using R to tidy some
+Another earlier CodeClan exercise, this time with the sole aim of using R to tidy some
 dirty data.
 </p>
 <a href="https://github.com/colsco/dirty_data_codeclan_project_colin_scotland"><img src="images/dirty_data.jpg?raw=true"/></a>
