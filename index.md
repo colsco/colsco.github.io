@@ -53,7 +53,7 @@ ggplot.
 The data for this project was donated by Deloitte and comes from the Equifax 
 Ignite Direct open source data platform.
 </p>
-<a href="https://github.com/colsco/dirty_data_codeclan_project_colin_scotland"><img src="images/dirty_data.jpg?raw=true"/></a>
+<a href="https://github.com/colsco/CodeClan_Final_Project"><img src="images/final_project.jpg?raw=true"/></a>
 <br>
 <br>
 - [CodeClan "Dirty Data" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
