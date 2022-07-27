@@ -38,32 +38,32 @@ not the data backed up the so-called "winter crisis".
 <a href="https://github.com/colsco/phs_rshiny_dashboard_project_group4"><img src="images/shiny_dashboard.jpg?raw=true"/></a>
 <br>
 <br>
-# - [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
-# <p>
-# The final CodeClan project was designed as an exercise for each individual to
-# work alone to carry out an end-to-end data project. This allowed the freedom to
-# consolidate and expand upon what had been taught during the course.
-# 
-# After analysis the findings had to be presented using slides and a written
-# markdown report with appropriate documentation of data source, quality and ethics.
-# 
-# The project was written entirely in R using RStudio, with plots generated in
-# ggplot.
-# 
-# The data for this project was donated by Deloitte and comes from the Equifax 
-# Ignite Direct open source data platform.
-# </p>
-# <a href="https://github.com/colsco/CodeClan_Final_Project"><img src="images/final_project.jpg?raw=true"/></a>
-# <br>
-# <br>
-# - [CodeClan "Dirty Data" R Coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
-# <p>
-# Another earlier CodeClan exercise, this time with the sole aim of using R to tidy some
-# dirty data.
-# </p>
-# <a href="https://github.com/colsco/dirty_data_codeclan_project_colin_scotland"><img src="images/dirty_data.jpg?raw=true"/></a>
-# <br>
-# <br>
+ - [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
+ <p>
+ The final CodeClan project was designed as an exercise for each individual to
+ work alone to carry out an end-to-end data project. This allowed the freedom to
+ consolidate and expand upon what had been taught during the course.
+ 
+ After analysis the findings had to be presented using slides and a written
+ markdown report with appropriate documentation of data source, quality and ethics.
+ 
+ The project was written entirely in R using RStudio, with plots generated in
+ ggplot.
+ 
+ The data for this project was donated by Deloitte and comes from the Equifax 
+ Ignite Direct open source data platform.
+ </p>
+ <a href="https://github.com/colsco/CodeClan_Final_Project"><img src="images/final_project.jpg?raw=true"/></a>
+ <br>
+ <br>
+ - [CodeClan "Dirty Data" R coding](https://github.com/colsco/dirty_data_codeclan_project_colin_scotland)
+ <p>
+ Another earlier CodeClan exercise, this time with the sole aim of using R to tidy some
+ dirty data.
+ </p>
+ <a href="https://github.com/colsco/dirty_data_codeclan_project_colin_scotland"><img src="images/dirty_data.jpg?raw=true"/></a>
+ <br>
+ <br>
 
 ---
 
