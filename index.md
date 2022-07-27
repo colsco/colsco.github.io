@@ -38,7 +38,8 @@ not the data backed up the so-called "winter crisis".
 <a href="https://github.com/colsco/phs_rshiny_dashboard_project_group4"><img src="images/shiny_dashboard.jpg?raw=true"/></a>
 <br>
 <br>
-<!--- - [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
+
+<!-- - [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
  <p>
  The final CodeClan project was designed as an exercise for each individual to
  work alone to carry out an end-to-end data project. This allowed the freedom to
@@ -70,6 +71,6 @@ not the data backed up the so-called "winter crisis".
 
 
 -->
----
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
