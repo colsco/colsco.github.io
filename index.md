@@ -39,7 +39,8 @@ not the data backed up the so-called "winter crisis".
 <br>
 <br>
 
-[//] <!-- - [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
+
+<!-- - [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
  <p>
  The final CodeClan project was designed as an exercise for each individual to
  work alone to carry out an end-to-end data project. This allowed the freedom to
