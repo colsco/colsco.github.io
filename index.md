@@ -21,6 +21,14 @@
 
 <br>
 <br>
+- [Solo Personal Project: RShiny Dashboard Example Using Data from Strava](https://colsco.shinyapps.io/strava_data_dashboard/)
+<p>
+A RShiny dashboard build using my own activity data downloaded from the 
+fitness tracking website strava.com.
+</p>
+<a href="https://colsco.shinyapps.io/strava_data_dashboard/"><img src="images/strava_dashboard.png?raw=true"/></a>
+<br>
+<!-- <br>
 - [Solo Homework Project: RShiny Dashboard for Console Games Sales](https://github.com/colsco/codeclan_homework_ColinS/tree/main/week_05/weekend_shiny_homework2)
 <p>
 A solo RShiny dashboard build set as a homework task in CodeClan's Professional
@@ -28,6 +36,8 @@ Data Analysis course.
 </p>
 <a href="https://github.com/colsco/codeclan_homework_ColinS/tree/main/week_05/weekend_shiny_homework2"><img src="images/games_shiny.jpg?raw=true"/></a>
 <br>
+-->
+
 <br>
 - [Group Project: RShiny Dashboard for Public Health Scotland](https://github.com/colsco/phs_rshiny_dashboard_project_group4)
 <p>
