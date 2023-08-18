@@ -6,13 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Manufacturing Management.  Most recently I've been using my knowledge
   and experience as a part of CodeClan's Data Instructor team.
   
-  <br>
+<br>
   
-  <a href="https://www.linkedin.com/in/colin-scotland-b83114238/">View My LinkedIn Profile</a> 
+<a href="https://www.linkedin.com/in/colin-scotland-b83114238/">View My LinkedIn Profile</a> 
   
-  <br>
-  
-  <br>
+<br>
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
