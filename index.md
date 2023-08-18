@@ -36,7 +36,7 @@ coding which is detailed in the mapping project below.
 <br>
 
 <br>
-- Solo Project: Handling .gpx Files in R
+- [Solo Project: Handling .gpx  and .fit Files in R](https://github.com/colsco/cc_gpx_fit#readme)
 <p>
 Being a keen cyclist with several years' worth of ride data (above) I thought
 it would be interesting to be able to map rides from .gpx files including adding
@@ -46,14 +46,10 @@ This was achieved using the `plotKML` and `leaflet` packages to plot the route
 in the latitude/longitude space, then using the `Leaflet.hotline` javascript
 plug-in for R to use colour to represent the elevation at any given point.  
 
-A full write-up of the work can be found on github [here](https://github.com/colsco/cc_gpx_fit)
-
-
-
-
+A full write-up of the work can be found on github [here](https://github.com/colsco/cc_gpx_fit#readme)
 
 </p>
-<a href="https://colsco.shinyapps.io/strava_data_dashboard/"><img src="images/strava_dashboard.png?raw=true"/></a>
+<a href="https://github.com/colsco/cc_gpx_fit#readme"><img src="images/gpx_fit.png?raw=true"/></a>
 <br>
 
 <!-- 
@@ -70,9 +66,10 @@ Data Analysis course.
 <br>
 - [Group Project: RShiny Dashboard for Public Health Scotland](https://github.com/colsco/phs_rshiny_dashboard_project_group4)
 <p>
-A CodeClan group project using open source data from Public Health Scotland,
-with the aim of investigating NHS Scotland acute care hospitals and whether or 
-not the data backed up the so-called "winter crisis".
+A group project completed while studying on CodeClan's Professional Data Analysis
+course, using open source data from Public Health Scotland with the aim of 
+investigating NHS Scotland acute care hospitals and whether or not the data 
+backed up the so-called "winter crisis".
 </p>
 <a href="https://github.com/colsco/phs_rshiny_dashboard_project_group4"><img src="images/shiny_dashboard.jpg?raw=true"/></a>
 <br>
