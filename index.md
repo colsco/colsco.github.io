@@ -24,7 +24,34 @@
 - [Solo Project: RShiny Dashboard Using Strava Data](https://colsco.shinyapps.io/strava_data_dashboard/)
 <p>
 A RShiny dashboard build using my own activity data downloaded from the 
-fitness tracking website strava.com.
+fitness tracking website strava.com.  This is an intermittently updated, endless
+work in progress that I use it to try different layouts, fonts, and various 
+packages relating to RShiny.
+
+Trying different packages in this layout led me on to more specific geospatial
+coding which is detailed in the mapping project below.
+
+</p>
+<a href="https://colsco.shinyapps.io/strava_data_dashboard/"><img src="images/strava_dashboard.png?raw=true"/></a>
+<br>
+
+<br>
+- Solo Project: Handling .gpx Files in R
+<p>
+Being a keen cyclist with several years' worth of ride data (above) I thought
+it would be interesting to be able to map rides from .gpx files including adding
+some representation of the route elevation.
+
+This was achieved using the `plotKML` and `leaflet` packages to plot the route
+in the latitude/longitude space, then using the `Leaflet.hotline` javascript
+plug-in for R to use colour to represent the elevation at any given point.  
+
+A full write-up of the work can be found on github [here](https://github.com/colsco/cc_gpx_fit)
+
+
+
+
+
 </p>
 <a href="https://colsco.shinyapps.io/strava_data_dashboard/"><img src="images/strava_dashboard.png?raw=true"/></a>
 <br>
