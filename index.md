@@ -20,7 +20,7 @@
 ### GitHub Project Links
 
 <br>
-<br>
+
 - [Solo Project: RShiny Dashboard Using Strava Data](https://colsco.shinyapps.io/strava_data_dashboard/)
 <p>
 A RShiny dashboard build using my own activity data downloaded from the 
@@ -35,7 +35,6 @@ coding which is detailed in the mapping project below.
 <a href="https://colsco.shinyapps.io/strava_data_dashboard/"><img src="images/strava_dashboard.png?raw=true"/></a>
 <br>
 
-<br>
 - [Solo Project: Handling .gpx  and .fit Files in R](https://github.com/colsco/cc_gpx_fit#readme)
 <p>
 Being a keen cyclist with several years' worth of ride data (above) I thought
@@ -63,7 +62,6 @@ Data Analysis course.
 <br>
 -->
 
-<br>
 - [Group Project: RShiny Dashboard for Public Health Scotland](https://github.com/colsco/phs_rshiny_dashboard_project_group4)
 <p>
 A group project completed while studying on CodeClan's Professional Data Analysis
