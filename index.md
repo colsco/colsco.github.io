@@ -62,14 +62,14 @@ Data Analysis course.
 <br>
 -->
 
-- [Group Project: RShiny Dashboard for Public Health Scotland](https://github.com/colsco/phs_rshiny_dashboard_project_group4)
+- [Group Project: RShiny Dashboard for Public Health Scotland](https://colsco.shinyapps.io/phs_rshiny_dashboard_project_group4/)
 <p>
 A group project completed while studying on CodeClan's Professional Data Analysis
 course, using open source data from Public Health Scotland with the aim of 
 investigating NHS Scotland acute care hospitals and whether or not the data 
 backed up the so-called "winter crisis".
 </p>
-<a href="https://github.com/colsco/phs_rshiny_dashboard_project_group4"><img src="images/shiny_dashboard.jpg?raw=true"/></a>
+<a href="https://colsco.shinyapps.io/phs_rshiny_dashboard_project_group4/"><img src="images/shiny_dashboard.jpg?raw=true"/></a>
 <br>
 <br>
 
