@@ -33,7 +33,7 @@ coding which is detailed in the mapping project below.
 
 </p>
 <a href="https://colsco.shinyapps.io/strava_data_dashboard/"><img src="images/strava_dashboard.png?raw=true"/></a>
-<br>
+<br><hr>
 
 - [Solo Project: Handling .gpx  and .fit Files in R](https://github.com/colsco/cc_gpx_fit#readme)
 <p>
@@ -49,7 +49,7 @@ A full write-up of the work can be found on github <a href="https://github.com/c
 
 </p>
 <a href="https://github.com/colsco/cc_gpx_fit#readme"><img src="images/gpx_fit.png?raw=true"/></a>
-<br>
+<br><hr>
 
 <!-- 
 <br>
@@ -70,8 +70,7 @@ investigating NHS Scotland acute care hospitals and whether or not the data
 backed up the so-called "winter crisis".
 </p>
 <a href="https://colsco.shinyapps.io/phs_rshiny_dashboard_project_group4/"><img src="images/shiny_dashboard.jpg?raw=true"/></a>
-<br>
-<br>
+<br><hr>
 
 
 <!--
