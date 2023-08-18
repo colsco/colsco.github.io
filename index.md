@@ -42,8 +42,8 @@ Being a keen cyclist with several years' worth of ride data (above) I thought
 it would be interesting to be able to map rides from .gpx files including adding
 some representation of the route elevation.
 
-This was achieved using the `plotKML` and `leaflet` packages to plot the route
-in the latitude/longitude space, then using the `Leaflet.hotline` javascript
+This was achieved using the plotKML and leaflet packages to plot the route
+in the latitude/longitude space, then using the Leaflet.hotline javascript
 plug-in for R to use colour to represent the elevation at any given point.  
 
 A full write-up of the work can be found on github <a href="https://github.com/colsco/cc_gpx_fit#readme/"></a>
