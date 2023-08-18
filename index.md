@@ -45,7 +45,7 @@ This was achieved using the `plotKML` and `leaflet` packages to plot the route
 in the latitude/longitude space, then using the `Leaflet.hotline` javascript
 plug-in for R to use colour to represent the elevation at any given point.  
 
-A full write-up of the work can be found on github [here](https://github.com/colsco/cc_gpx_fit#readme)
+A full write-up of the work can be found on github <a href="https://github.com/colsco/cc_gpx_fit#readme/"></a>
 
 </p>
 <a href="https://github.com/colsco/cc_gpx_fit#readme"><img src="images/gpx_fit.png?raw=true"/></a>
