@@ -28,7 +28,9 @@ fitness tracking website strava.com.
 </p>
 <a href="https://colsco.shinyapps.io/strava_data_dashboard/"><img src="images/strava_dashboard.png?raw=true"/></a>
 <br>
-<!-- <br>
+
+<!-- 
+<br>
 - [Solo Homework Project: RShiny Dashboard for Console Games Sales](https://github.com/colsco/codeclan_homework_ColinS/tree/main/week_05/weekend_shiny_homework2)
 <p>
 A solo RShiny dashboard build set as a homework task in CodeClan's Professional
@@ -50,7 +52,8 @@ not the data backed up the so-called "winter crisis".
 <br>
 
 
-<!-- - [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
+<!--
+- [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
  <p>
  The final CodeClan project was designed as an exercise for each individual to
  work alone to carry out an end-to-end data project. This allowed the freedom to
