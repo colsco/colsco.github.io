@@ -75,6 +75,25 @@ backed up the so-called "winter crisis".
 <br>
 <hr>
 
+- [Solo Project: Linear Regression Model Building in R](https://github.com/colsco/wine_regression/blob/main/README.md)
+<p>
+This dataset was often given as a homework exercise in CodeClan and shows two 
+ways to build a multiple linear regression model on a synthetic, wine-based 
+dataset.
+
+The modelling shown here runs through both a manual build and an automated
+forward build using the leaps package.
+
+There are many ways to build an explanatory model like this so this isn't 
+intended to be the absolute best regression solution, but shows in detail the 
+regression model building process in R.
+
+A full write-up of the work can be found on github <a href="https://github.com/colsco/wine_regression/blob/main/README.md"></a>
+
+</p>
+<a href="https://github.com/colsco/wine_regression/blob/main/README.md"><img src="images/wine_regression.png?raw=true"/></a>
+<br>
+<hr>
 
 <!--
 - [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
