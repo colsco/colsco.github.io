@@ -36,7 +36,7 @@ coding which is detailed in the mapping project below.
 <br>
 <hr>
 
-- [Solo Project: Handling .gpx  and .fit Files in R](https://github.com/colsco/cc_gpx_fit#readme)
+- [Solo Project: Geospatial Data Handling from .gpx  and .fit Files in R](https://github.com/colsco/cc_gpx_fit#readme)
 <p>
 Being a keen cyclist with several years' worth of ride data (above) I thought
 it would be interesting to be able to map rides from .gpx files including adding
