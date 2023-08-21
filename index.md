@@ -88,7 +88,8 @@ There are many ways to build an explanatory model like this so this isn't
 intended to be the absolute best regression solution, but shows in detail the 
 regression model building process in R.
 
-A full write-up of the work can be found on github <a href="https://github.com/colsco/wine_regression/blob/main/README.md"></a>
+A full write-up of the work can be found on github 
+<a href="https://github.com/colsco/wine_regression/blob/main/README.md"></a>
 
 </p>
 <a href="https://github.com/colsco/wine_regression/blob/main/README.md"><img src="images/wine_regression.png?raw=true"/></a>
