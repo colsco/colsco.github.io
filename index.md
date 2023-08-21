@@ -45,8 +45,9 @@ representation of the route elevation.
 This was achieved using the plotKML and leaflet packages to plot the route
 in the latitude/longitude space, then using the Leaflet.hotline javascript
 plug-in for R to use colour to represent the elevation at any given point.  
-
-A full write-up of the work can be found on github <a href="https://github.com/colsco/cc_gpx_fit#readme/"></a>
+<br>
+A full write-up of the work can be found on github. 
+<a href="https://github.com/colsco/cc_gpx_fit#readme/"></a>
 
 </p>
 <a href="https://github.com/colsco/cc_gpx_fit#readme"><img src="images/gpx_fit.png?raw=true"/></a>
@@ -87,8 +88,9 @@ forward build using the leaps package.
 There are many ways to build an explanatory model like this so this isn't 
 intended to be the absolute best regression solution, but shows in detail the 
 regression model building process in R.
+<br>
+A full write-up of the work can be found on github.
 
-A full write-up of the work can be found on github 
 <a href="https://github.com/colsco/wine_regression/blob/main/README.md"></a>
 
 </p>
