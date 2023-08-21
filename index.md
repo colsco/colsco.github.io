@@ -38,9 +38,9 @@ coding which is detailed in the mapping project below.
 
 - [Solo Project: Geospatial Data Handling from .gpx  and .fit Files in R](https://github.com/colsco/cc_gpx_fit#readme)
 <p>
-Being a keen cyclist with several years' worth of ride data (above) I thought
-it would be interesting to be able to map rides from .gpx files including adding
-some representation of the route elevation.
+Being a keen cyclist with several years' worth of ride data I thought it would 
+be interesting to be able to map rides from .gpx files including adding some 
+representation of the route elevation.
 
 This was achieved using the plotKML and leaflet packages to plot the route
 in the latitude/longitude space, then using the Leaflet.hotline javascript
