@@ -98,7 +98,7 @@ A full write-up of the work can be found on github.
 </p>
 <a href="https://github.com/colsco/wine_regression/blob/main/README.md"><img src="images/wine_regression.png?raw=true"/></a>
 <br>
-<hr>
+
 
 <!--
 - [CodeClan Final Project: R Coding](https://github.com/colsco/CodeClan_Final_Project)
