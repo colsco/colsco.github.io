@@ -25,16 +25,17 @@
 <p>
 A RShiny dashboard build using my own activity data downloaded from the 
 fitness tracking website strava.com.  This is an intermittently updated, endless
-work in progress that I use it to try different layouts, fonts, and various 
+work in progress that I use to try different layouts, fonts, and various 
 packages relating to RShiny.
-
-Trying different packages in this layout led me on to more specific geospatial
-coding which is detailed in the mapping project below.
 
 </p>
 <a href="https://colsco.shinyapps.io/strava_data_dashboard/"><img src="images/strava_dashboard.png?raw=true"/></a>
 <br>
 <hr>
+
+<!--
+
+This was removed due to the archival of necessary packages like FitFileR and rgdal.
 
 - [Solo Project: Geospatial Data Handling from .gpx  and .fit Files in R](https://github.com/colsco/cc_gpx_fit#readme)
 <p>

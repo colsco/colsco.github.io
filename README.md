@@ -12,6 +12,8 @@ I'm a fluent German speaker and writer with experience in the following fields;
 * SQL
 * RShiny
 * Python
+* Azure Dev Ops
+* Agile Methodologies
 * Tableau
 * Machine Learning
 * Minitab
