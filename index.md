@@ -29,7 +29,7 @@ work in progress that I use to try different layouts, fonts, and various
 packages relating to RShiny.
 
 </p>
-<a href="https://colsco.shinyapps.io/strava_data_dashboard/"><img src="images/strava_dashboard.png?raw=true"/></a>
+<a href="https://colsco.shinyapps.io/shiny_app_refurb/"><img src="images/strava_refurb.png?raw=true"/></a>
 <br>
 <hr>
 
