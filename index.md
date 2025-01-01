@@ -21,7 +21,7 @@
 
 <br>
 
-- [Solo Project: RShiny Dashboard Using Strava Data](https://colsco.shinyapps.io/shiny_app_refurb/)
+- [Solo Project: RShiny Dashboard Using Strava Data](https://colsco.shinyapps.io/strava_refurb/)
 <p>
 A RShiny dashboard build using my own activity data downloaded from the 
 fitness tracking website strava.com.  This is an intermittently updated, endless
@@ -29,7 +29,7 @@ work in progress that I use to try different layouts, fonts, and various
 packages relating to RShiny.
 
 </p>
-<a href="https://colsco.shinyapps.io/shiny_app_refurb/"><img src="images/strava_refurb.png?raw=true"/></a>
+<a href="https://colsco.shinyapps.io/strava_refurb/"><img src="images/strava_refurb.png?raw=true"/></a>
 <br>
 <hr>
 
