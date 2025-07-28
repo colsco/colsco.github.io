@@ -67,6 +67,7 @@ Data Analysis course.
 <br>
 -->
 
+<!--
 - [Group Project: RShiny Dashboard for Public Health Scotland](https://colsco.shinyapps.io/phs_rshiny_dashboard_project_group4/)
 <p>
 A group project completed while studying on CodeClan's Professional Data Analysis
@@ -75,6 +76,29 @@ investigating NHS Scotland acute care hospitals and whether or not the data
 backed up the so-called "winter crisis".
 </p>
 <a href="https://colsco.shinyapps.io/phs_rshiny_dashboard_project_group4/"><img src="images/shiny_dashboard.jpg?raw=true"/></a>
+<br>
+-->
+
+<hr>
+
+- [Solo Project: A Data Quality Summary Tool in RShiny](https://colsco.shinyapps.io/data_quality/)
+<p>
+Although R contains multiple packages and functions to assess the data quality 
+of a data frame, I went through a short period of handling lots of .csv and .xlsx
+files and thought it would be easier just to create an app that would give me a
+quick overview of the data quality of each file before I started working on it.
+
+This shiny app is the result.  It allows any .csv or Excel worksheet to be
+uploaded and returns some key information about whatever worksheet is of interest.
+It also allows rows to be skipped, for example if a worksheet contains some 
+commentary on the first few rows that don't actually form part of the data.
+
+The first iteration of this was written in 2024, but I still find myself using it
+from time to time when I just need a quick look at a file's data quality 
+characteristics.
+
+</p>
+<a href="https://colsco.shinyapps.io/data_quality/"><img src="images/dq.png?raw=true"/></a>
 <br>
 <hr>
 
