@@ -79,7 +79,6 @@ backed up the so-called "winter crisis".
 <br>
 -->
 
-<hr>
 
 - [A Data Quality Summary Tool in RShiny](https://colsco.shinyapps.io/data_quality/)
 <p>
