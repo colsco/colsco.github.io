@@ -21,7 +21,7 @@
 
 <br>
 
-- [Solo Project: RShiny Dashboard Using Strava Data](https://colsco.shinyapps.io/strava_refurb/)
+- [RShiny Dashboard Using Strava Data](https://colsco.shinyapps.io/strava_refurb/)
 <p>
 A RShiny dashboard build using my own activity data downloaded from the 
 fitness tracking website strava.com.  This is an intermittently updated, endless
@@ -81,7 +81,7 @@ backed up the so-called "winter crisis".
 
 <hr>
 
-- [Solo Project: A Data Quality Summary Tool in RShiny](https://colsco.shinyapps.io/data_quality/)
+- [A Data Quality Summary Tool in RShiny](https://colsco.shinyapps.io/data_quality/)
 <p>
 Although R contains multiple packages and functions to assess the data quality 
 of a data frame, I went through a short period of handling lots of .csv and .xlsx
@@ -102,7 +102,7 @@ characteristics.
 <br>
 <hr>
 
-- [Solo Project: Linear Regression Model Building in R](https://github.com/colsco/wine_regression/blob/main/README.md)
+- [Linear Regression Model Building in R](https://github.com/colsco/wine_regression/blob/main/README.md)
 <p>
 This dataset was often given as a homework exercise in CodeClan and shows two 
 ways to build a multiple linear regression model on a synthetic, wine-based 
